@@ -1,2 +1,3 @@
 # project1
-# simple linear regression
+simple linear regression
+ML project
